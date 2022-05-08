@@ -52,7 +52,6 @@ function App() {
     }
 
     function deleteItem() {
-        setisLoad(true);
         let data = {
             id: deleteID
         }
